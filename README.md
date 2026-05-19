@@ -11,9 +11,13 @@
 ## 👨‍💻 Sobre mim
 
 💻 Desenvolvedor Full Stack com foco em backend e arquitetura de software  
+🎓 Engenheiro Mecânico   
+🛰️ Mestre pelo ITA em Ciências e Tecnologias Espaciais   
 🚀 Experiência com Java, Node.js, TypeScript e aplicações escaláveis  
-📚 Professor de Análise e Desenvolvimento de Sistemas, Engenharia Civil, Agronomia e Administração na Faculdade UMFG
-🤖 Utilizando e criando estruturas com IA no fluxo de desenvolvimento, para aumentar qualidade e confiabilidade das entregas
+📚 Professor de Análise e Desenvolvimento de Sistemas, Engenharia Civil, Agronomia e Administração na Faculdade UMFG  
+🤖 Utilizando e criando estruturas com IA no fluxo de desenvolvimento, para aumentar qualidade e confiabilidade das entregas  
+🔬 Publicação científica na Journal of Computational Chemistry (JCC):  
+https://onlinelibrary.wiley.com/doi/10.1002/jcc.26092
 
 ---
 
